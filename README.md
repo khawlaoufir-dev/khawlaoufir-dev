@@ -4,9 +4,9 @@
 
 ### `Software Engineering Student` • `Frontend & Backend Developer` • `Cybersecurity Enthusiast`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+secure+and+modern+web+experiences+✨;Frontend+%2B+Backend+Developer+💻;Cybersecurity+Enthusiast+🔐;Turning+ideas+into+interactive+realities+🚀" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+secure+and+modern+web+experiences+✨;Frontend+%2B+Backend+Developer+💻;Cybersecurity+Enthusiast+🔐;Turning+ideas+into+interactive+realities+🚀)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=khawlaoufir-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+![Profile Views](https://komarev.com/ghpvc/?username=khawlaoufir-dev&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
 
@@ -95,13 +95,9 @@ System status: EVOLVING 🚀
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=khawlaoufir-dev&show_icons=true&theme=tokyonight" height="180"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khawlaoufir-dev&show_icons=true&theme=tokyonight)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khawlaoufir-dev&layout=compact&theme=tokyonight" height="180"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khawlaoufir-dev&layout=compact&theme=tokyonight)
 
 ---
 
