@@ -95,7 +95,9 @@ System status: EVOLVING 🚀
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=khawlaoufir-dev&theme=radical&hide_border=true)
+<p align="center">
+    ![GitHub Streak](https://streak-stats.demolab.com?user=khawlaoufir-dev&theme=radical&hide_border=true)
+</p>
 
 ---
 
